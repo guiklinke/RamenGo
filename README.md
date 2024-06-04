@@ -10,8 +10,6 @@ The project aims to develop a backend API for a web application called RamenGo, 
 - OpenAPI
 ## Running the app
 - Use this URL to access the application: ` `
-## API documentation
-- API documentation is available via Swagger UI at http://localhost:8080/swagger-ui/index.html
 
 
     
