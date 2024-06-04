@@ -9,7 +9,7 @@ The project aims to develop a backend API for a web application called RamenGo, 
 - MongoDB
 - OpenAPI
 ## Running the app
-- Use this URL to access the application: ` `
+- Use this URL to access the application: `https://ramengo-425416.ue.r.appspot.com/`
 
 
     
